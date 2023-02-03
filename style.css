@@ -1,0 +1,27 @@
+body {
+    background-color: #BDCDD6;
+    color: #13005A;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    text-align: center;
+    background-color: #a5be99;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #13005A;
+    font-size: 25px;
+    padding: 0 50px 0 50px;
+    ;
+}
